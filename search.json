@@ -1,0 +1,56 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "libro",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\nfrom jupytercards import display_flashcards\ngithub='https://raw.githubusercontent.com/jmshea/foundations-of-data-science-with-python/main/04-probability1/flashcards/'\ndisplay_flashcards(github+'outcomes-samplespaces-events.json')\n\n\n\n\n  \n\n\n\n\n\n\n[\n    {\n        \"front\":\"outcome (of a random experiment)\",\n        \"back\":\"An outcome of a random experiment is a result of the experiment that cannot be further decomposed.\"\n    },\n    {\n        \"front\":\"sample space, \\\\( S \\\\)\",\n        \"back\":\"The sample space of a random fff experiment is the set of all possible outcomes.\"\n    },\n    {\n        \"front\":\"event\",\n        \"back\":\"An event is a set of outcomes. The event occurs if the result of the experiment is any of the outcomes in the set. \"\n    }\n]\n\n[{'front': 'outcome (of a random experiment)',\n  'back': 'An outcome of a random experiment is a result of the experiment that cannot be further decomposed.'},\n {'front': 'sample space, \\\\( S \\\\)',\n  'back': 'The sample space of a random fff experiment is the set of all possible outcomes.'},\n {'front': 'event',\n  'back': 'An event is a set of outcomes. The event occurs if the result of the experiment is any of the outcomes in the set. '}]\n\n\n\nexample=[{\n        \"question\": \"The variable mylist is a Python list. Choose which code snippet will append the item 3 to mylist.\",\n        \"type\": \"multiple_choice\",\n        \"answers\": [\n            {\n                \"code\": \"mylist+=3\",\n                \"correct\": False\n            },\n            {\n                \"code\": \"mylist+=[3] sdsd\",\n                \"correct\": True\n            },\n            {\n                \"code\": \"mylist+={3}\",\n                \"correct\": False\n            }\n        ]\n    }]\n\n\nfrom jupyterquiz import display_quiz\ndisplay_quiz(example)\n\n \n\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "pruebacard.html",
+    "href": "pruebacard.html",
+    "title": "libro",
+    "section": "",
+    "text": "from jupytercards import display_flashcards\ngithub='https://raw.githubusercontent.com/jmshea/foundations-of-data-science-with-python/main/04-probability1/flashcards/'\ndisplay_flashcards(github+'outcomes-samplespaces-events.json')\n\n\n\n\n  \n\n\n\n\n\n\n[\n    {\n        \"front\":\"outcome (of a random experiment)\",\n        \"back\":\"An outcome of a random experiment is a result of the experiment that cannot be further decomposed.\"\n    },\n    {\n        \"front\":\"sample space, \\\\( S \\\\)\",\n        \"back\":\"The sample space of a random experiment is the set of all possible outcomes.\"\n    },\n    {\n        \"front\":\"event\",\n        \"back\":\"An event is a set of outcomes. The event occurs if the result of the experiment is any of the outcomes in the set. \"\n    }\n]\n\n\nexample=[{\n        \"question\": \"The variable mylist is a Python list. Choose which code snippet will append the item 3 to mylist.\",\n        \"type\": \"multiple_choice\",\n        \"answers\": [\n            {\n                \"code\": \"mylist+=3\",\n                \"correct\": False\n            },\n            {\n                \"code\": \"mylist+=[3]\",\n                \"correct\": True\n            },\n            {\n                \"code\": \"mylist+={3}\",\n                \"correct\": False\n            }\n        ]\n    }]\n\n\nfrom jupyterquiz import display_quiz\ndisplay_quiz(example)\n\n \n\n\n\n\n\n\nimport json\njson.dumps(example)\ndisplay_quiz(\"#question1\")\n\n \n\n\n\n\n\n\nfrom base64 import b64encode\nb64encode(bytes(json.dumps(example), 'utf8'))\n\nb'W3sicXVlc3Rpb24iOiAiVGhlIHZhcmlhYmxlIG15bGlzdCBpcyBhIFB5dGhvbiBsaXN0LiBDaG9vc2Ugd2hpY2ggY29kZSBzbmlwcGV0IHdpbGwgYXBwZW5kIHRoZSBpdGVtIDMgdG8gbXlsaXN0LiIsICJ0eXBlIjogIm11bHRpcGxlX2Nob2ljZSIsICJhbnN3ZXJzIjogW3siY29kZSI6ICJteWxpc3QrPTMiLCAiY29ycmVjdCI6IGZhbHNlfSwgeyJjb2RlIjogIm15bGlzdCs9WzNdIiwgImNvcnJlY3QiOiB0cnVlfSwgeyJjb2RlIjogIm15bGlzdCs9ezN9IiwgImNvcnJlY3QiOiBmYWxzZX1dfV0='\n\n\n\ndisplay_quiz(\"#question2\")",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>pruebacard.html</span>"
+    ]
+  },
+  {
+    "objectID": "prueba.html",
+    "href": "prueba.html",
+    "title": "4  Pyodide in Quarto HTML Documents",
+    "section": "",
+    "text": "This is a pyodide-enabled code cell in a Quarto HTML document.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pyodide in Quarto HTML Documents</span>"
+    ]
+  }
+]
