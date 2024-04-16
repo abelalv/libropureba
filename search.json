@@ -52,5 +52,15 @@
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pyodide in Quarto HTML Documents</span>"
     ]
+  },
+  {
+    "objectID": "intro1.html",
+    "href": "intro1.html",
+    "title": "1  Prueba de documentos interactivos",
+    "section": "",
+    "text": "2 Problema\nJuan y María deciden competir en una carrera de bicicletas. Primero, Juan recorre un tramo de 6 kilómetros a una velocidad constante de 12 kilómetros por hora. Mientras tanto, María recorre un tramo de 8 kilómetros a una velocidad constante de 8 kilómetros por hora. Luego, ambos regresan al punto de partida, pero esta vez cambian de bicicletas y recorren el camino de regreso a la velocidad de la otra persona. Si Juan y María se encuentran en el punto medio del recorrido de regreso, probar que la duración total del viaje supera las dos horas.\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n \n\n\n\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\nlink notebook",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prueba de documentos interactivos</span>"
+    ]
   }
 ]
