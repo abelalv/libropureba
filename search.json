@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "libro",
+    "title": "Modelos Matemáticos Aplicados: Fundamentos",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nEste seria un ejemplo del libro para las notas de Modelos Matemáticos Aplicados: Fundamentos….. Para encontrar maś teoría mirar el libro de Zill et al. (2008).\n\n\n\n\nZill, Dennis G et al. 2008. “Precálculo: Con Avances de cálculo.”",
     "crumbs": [
       "Preface"
     ]
@@ -58,9 +58,39 @@
     "href": "intro1.html",
     "title": "1  Prueba de documentos interactivos",
     "section": "",
-    "text": "2 Problema\nJuan y María deciden competir en una carrera de bicicletas. Primero, Juan recorre un tramo de 6 kilómetros a una velocidad constante de 12 kilómetros por hora. Mientras tanto, María recorre un tramo de 8 kilómetros a una velocidad constante de 8 kilómetros por hora. Luego, ambos regresan al punto de partida, pero esta vez cambian de bicicletas y recorren el camino de regreso a la velocidad de la otra persona. Si Juan y María se encuentran en el punto medio del recorrido de regreso, probar que la duración total del viaje supera las dos horas.\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n \n\n\n\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\nlink notebook",
+    "text": "2 Problema\nJuan y María deciden competir en una carrera de bicicletas. Primero, Juan recorre un tramo de 6 kilómetros a una velocidad constante de 12 kilómetros por hora. Mientras tanto, María recorre un tramo de 8 kilómetros a una velocidad constante de 8 kilómetros por hora. Luego, ambos regresan al punto de partida, pero esta vez cambian de bicicletas y recorren el camino de regreso a la velocidad de la otra persona. Si Juan y María se encuentran en el punto medio del recorrido de regreso, probar que la duración total del viaje supera las dos horas.\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n \n\n\n\n\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\nlink notebook\n\n\nDisplaying 10 observations of `t`:\n[0.   0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09]\n\nShowing the first 10 values of `s`:",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Prueba de documentos interactivos</span>"
+    ]
+  },
+  {
+    "objectID": "actividad1.html",
+    "href": "actividad1.html",
+    "title": "2  Taller Interactivo",
+    "section": "",
+    "text": "3 Objetivo\nUsar correctamente la notación científica para representar números muy grandes o muy pequeños en Python.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taller Interactivo</span>"
+    ]
+  },
+  {
+    "objectID": "actividad1.html#actividad-1",
+    "href": "actividad1.html#actividad-1",
+    "title": "2  Taller Interactivo",
+    "section": "4.1 Actividad",
+    "text": "4.1 Actividad",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Taller Interactivo</span>"
+    ]
+  },
+  {
+    "objectID": "ejemplo2.html",
+    "href": "ejemplo2.html",
+    "title": "1  Actividad Clase",
+    "section": "",
+    "text": "Objetivo: El objetivo de esta actividad es realizar alguno ejercicios de repaso notación científica y operaciones con exponentes enteros.\n\n\n\n\n\n\n\n\n  \n\n\n\n\n\nAhora intentemos con un quiz\n\n\n \n\n\n\n\n\n\n\n\\(\\displaystyle \\frac{x^{3}}{3}\\)\n\n\n\n2 Ejercicio\n\nSe puede afirmar que \\[4^{4^{4^4}}-3^{3^{3^3}}=1^{1^{1^1}}?\\] Justifique su respuesta.\nSimplifique la respuesta de la siguiente expresión:\n\n\\[\\left( \\dfrac{a^{-2}}{bc^{-4}}\\right)^{-2}\\cdot \\left(\\dfrac{a^2}{b^{-1}c^{-2}}\\right)^{-3}\\]\n\nReescriba con exponente positivo la siguiente expresión:\n\\[-3(x+y)^{-3}(x-y)(x^2+y^2)^{-4}\\]\nSimplifique \\[\\sqrt{\\sqrt[3]{a^9b^{36}c^{-18}}}\\]\nSimplifique dejando con el exponente positivo \\[\\left( \\dfrac{(5^{-2})^{-2}}{(-3)^{-3}(10^2)^4}\\right)^2 \\div\\left(\\dfrac{(4^35^{-2}7^{-2})^{-2}}{((-2)^3)^{-2}} \\right)^{-1}\\]\nConsidera que \\(2\\cdot(3\\cdot 4)=(2\\cdot 3)\\cdot(2\\cdot 4)\\)? Justifique su respuesta\nUn mercado sale por COP1240000. Por ser cliente fiel, la persona le regalan la quinta parte de su compra. Al presionar el botón de premios, le otorgan un 3% adicional. Finalmente, ¿De cuanto fué el ahorro por la compra?\nEn una fiesta quedaron 3/4 de pastel. A Fernando le regalaron 2/5 del pastel que quedó. ¿Qué fracción de pastel le regalaron a Fernando?\nSimplifique la expresión \\[-\\Big(-\\Big(-\\Big(-\\frac{3}{-2}\\Big)\\Big)\\Big)\\]\nUn humano adulto promedio tiene aproximadamente 5 L de sangre en el el cuerpo. Si 1 \\(\\mu\\) L (1 microlitro) contiene \\(5\\times 10^6\\) glóbulos rojos, cuantos glóbulos rojos tienes un adulto promedio? (tengan en cuenta que 1 L= \\(10^6\\mu\\) L)",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Actividad Clase</span>"
     ]
   }
 ]
